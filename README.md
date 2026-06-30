@@ -119,34 +119,14 @@
 
 ---
 
-## 📌 Practical Experience
-
-### Cybersecurity Trainer Intern — Cyber Gita
-
-* Taught cybersecurity fundamentals, networking, Linux, ethical hacking, web security, and SOC basics
-* Delivered hands-on lab guidance using Burp Suite, Nmap, Wireshark, DVWA, OWASP Juice Shop, and Kali Linux
-* Created beginner-friendly notes and practical demonstrations
-* Promoted ethical and authorized lab-based cybersecurity learning
-
----
-
-### SOC Analyst Intern — Cybersecexpart
-
-* Worked on SIEM, Splunk, incident response, vulnerability management, phishing analysis, CrowdStrike EDR, IDS/IPS, WAF, proxy, firewall, cloud, Linux, and endpoint security
-* Investigated 150+ security tickets across different SOC alert categories
-* Practiced phishing email analysis, endpoint alert triage, suspicious process review, and escalation workflow
-* Documented evidence, impact, severity, root cause, and remediation steps
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothingnhm&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nothingnhm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothingnhm" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nothingnhm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
