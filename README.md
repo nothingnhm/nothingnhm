@@ -217,24 +217,6 @@ Performed phishing investigation using email header analysis, sender verificatio
 
 ---
 
-## 📌 Practical Experience
-
-### SOC Analyst Intern — Cybersecexpart
-
-- Worked on SIEM monitoring, Splunk log analysis, incident response, phishing investigation, CrowdStrike EDR, firewall, proxy, WAF, IDS/IPS, cloud, Linux, and endpoint security.
-- Investigated 150+ security tickets across firewall, IPS, WAF, proxy, email gateway, VPN, cloud, Linux, and SOC monitoring categories.
-- Performed phishing email analysis, endpoint alert triage, suspicious process review, severity validation, and escalation workflow.
-- Documented investigation findings with evidence, impact, severity, root cause, and recommended remediation steps.
-
-### Cybersecurity Trainer Intern — Cyber Gita
-
-- Taught cybersecurity fundamentals, networking, Linux, ethical hacking, web security, and SOC basics.
-- Delivered hands-on lab guidance using Burp Suite, Nmap, Wireshark, DVWA, OWASP Juice Shop, and Kali Linux.
-- Created beginner-friendly notes and practical demonstrations on OWASP Top 10, vulnerability assessment, log analysis, and phishing investigation.
-- Promoted ethical and authorized lab-based cybersecurity learning.
-
----
-
 ## 🎯 Learning Roadmap
 
 <table>
