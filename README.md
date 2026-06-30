@@ -288,7 +288,7 @@ Performed phishing investigation using email header analysis, sender verificatio
   <a href="mailto:nhmanand@gmail.com">
     <img src="https://img.shields.io/badge/Email-nhmanand@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ananda-das" target="_blank">
+  <a href="https://www.linkedin.com/in/ananda-das-972010382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ananda%20Das-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
